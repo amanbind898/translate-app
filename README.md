@@ -111,7 +111,7 @@ MIT License
 
 - [Vue.js](https://vuejs.org/)
 - [RapidAPI Free Google Translator](https://rapidapi.com/ahmadrezaei/api/free-google-translator/)
-- Inspired by Aman Kumar Bind's project requirements
+
 
 ---
 
