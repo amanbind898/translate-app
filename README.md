@@ -21,7 +21,7 @@ The app also maintains a history of the last 10 translated words/phrases in loca
 
 ## Demo
 
-link:
+link:https://translate-app-self-nine.vercel.app/
 
 ---
 
