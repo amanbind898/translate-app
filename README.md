@@ -72,24 +72,8 @@ npm run dev
 
 ## Project Structure
 
-translate-app/
-├── public/
-│   └── index.html
-├── src/
-│   ├── components/
-│   │   ├── LanguageSelector.vue
-│   │   ├── TranslateForm.vue
-│   │   └── TranslationHistory.vue
-│   ├── api/
-│   │   └── translateApi.js
-│   ├── App.vue
-│   └── main.js
-├── tests/
-│   └── unit/
-│       └── history.spec.js
-├── .env
-├── package.json
-└── README.md
+![image](https://github.com/user-attachments/assets/612ae558-0743-44fb-8d11-7710ef6140b7)
+
 
 ---
 
